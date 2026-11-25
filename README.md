@@ -18,7 +18,7 @@ In this lab I build a simple machine learning model to predict sales based on ad
 
 ## Files
 - `Lesson_6_lab_ML_Basics_Meryulis.ipynb` - Colab notebook with code and outputs
-- `Lesson_6_lab_ML_Basics_Meryulis.pdf` - PDF version of the notebook
+- `Lesson_6_lab_ML_Basics_Meryulis.ipynb - Colab` - PDF version of the notebook
 
 ## Tools
 Python, pandas, matplotlib/seaborn, scikit-learn, Google Colab
