@@ -1,7 +1,9 @@
 # BIA Lab 6 - Machine Learning Basics
 
 **Student:** Meryulis Zambrano
+
 **Program:** Business Intelligence Analyst (BIA) - Willis College
+
 **Course:** Introduction to AI - Lesson 6
 
 ## Description
